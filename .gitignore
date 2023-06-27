@@ -1,0 +1,7 @@
+dataset/
+celeb_dataset/
+logs/
+__pycache__/
+dcgan/
+kaggle/
+data/

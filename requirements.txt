@@ -1,0 +1,6 @@
+torch
+torchvision
+argparse
+wget
+kaggle
+pillow
